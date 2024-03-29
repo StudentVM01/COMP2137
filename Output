@@ -1,0 +1,125 @@
+===================================
+ Starting assignment2.sh script...
+===================================
+
+
+** (generate:2293): WARNING **: 00:15:13.085: Permissions for /etc/netplan/01-netcfg.yaml are too open. Netplan configuration should NOT be accessible by others.
+/etc/netplan/01-netcfg.yaml:6:9: Error in network definition: address '192.168.16.21' is missing /prefixlength
+        - 192.168.16.21
+        ^
+
+===================================
+ Network interface configured.
+===================================
+
+
+===================================
+ Hosts file configured.
+===================================
+
+Backing up 'user.rules' to '/etc/ufw/user.rules.20240329_001514'
+Backing up 'before.rules' to '/etc/ufw/before.rules.20240329_001514'
+Backing up 'after.rules' to '/etc/ufw/after.rules.20240329_001514'
+Backing up 'user6.rules' to '/etc/ufw/user6.rules.20240329_001514'
+Backing up 'before6.rules' to '/etc/ufw/before6.rules.20240329_001514'
+Backing up 'after6.rules' to '/etc/ufw/after6.rules.20240329_001514'
+
+Default incoming policy changed to 'deny'
+(be sure to update your rules accordingly)
+Default outgoing policy changed to 'allow'
+(be sure to update your rules accordingly)
+Rules updated
+Rules updated
+Rules updated
+Firewall is active and enabled on system startup
+
+===================================
+ Firewall configured.
+===================================
+
+cat: /root/dennis_rsa.pub: No such file or directory
+cat: /root/dennis_ed25519.pub: No such file or directory
+
+===================================
+ SSH keys added for user dennis.
+===================================
+
+cat: /root/aubrey_rsa.pub: No such file or directory
+cat: /root/aubrey_ed25519.pub: No such file or directory
+
+===================================
+ SSH keys added for user aubrey.
+===================================
+
+cat: /root/captain_rsa.pub: No such file or directory
+cat: /root/captain_ed25519.pub: No such file or directory
+
+===================================
+ SSH keys added for user captain.
+===================================
+
+cat: /root/snibbles_rsa.pub: No such file or directory
+cat: /root/snibbles_ed25519.pub: No such file or directory
+
+===================================
+ SSH keys added for user snibbles.
+===================================
+
+cat: /root/brownie_rsa.pub: No such file or directory
+cat: /root/brownie_ed25519.pub: No such file or directory
+
+===================================
+ SSH keys added for user brownie.
+===================================
+
+cat: /root/scooter_rsa.pub: No such file or directory
+cat: /root/scooter_ed25519.pub: No such file or directory
+
+===================================
+ SSH keys added for user scooter.
+===================================
+
+cat: /root/sandy_rsa.pub: No such file or directory
+cat: /root/sandy_ed25519.pub: No such file or directory
+
+===================================
+ SSH keys added for user sandy.
+===================================
+
+cat: /root/perrier_rsa.pub: No such file or directory
+cat: /root/perrier_ed25519.pub: No such file or directory
+
+===================================
+ SSH keys added for user perrier.
+===================================
+
+cat: /root/cindy_rsa.pub: No such file or directory
+cat: /root/cindy_ed25519.pub: No such file or directory
+
+===================================
+ SSH keys added for user cindy.
+===================================
+
+cat: /root/tiger_rsa.pub: No such file or directory
+cat: /root/tiger_ed25519.pub: No such file or directory
+
+===================================
+ SSH keys added for user tiger.
+===================================
+
+cat: /root/yoda_rsa.pub: No such file or directory
+cat: /root/yoda_ed25519.pub: No such file or directory
+
+===================================
+ SSH keys added for user yoda.
+===================================
+
+
+===================================
+ sudo access configured for user dennis.
+===================================
+
+
+===================================
+ Script execution completed.
+===================================
